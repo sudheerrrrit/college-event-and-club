@@ -37,3 +37,18 @@ Manual feedback collection is inefficient and lacks meaningful analysis. This sy
 
 ## 🛠️ Project Structure
 
+sentiment-feedback-system/
+├── backend/
+│   ├── app.py
+│   ├── sentiment.py
+│   └── requirements.txt
+├── frontend/
+│   ├── package.json
+│   └── src/
+│       ├── App.js
+│       ├── index.js
+│       └── components/
+│           ├── FeedbackForm.jsx
+│           └── AdminDashboard.jsx
+├── README.md
+
